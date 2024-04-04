@@ -1,0 +1,8 @@
+{
+    "name": "fibonacciapp",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Learning IDE-s",
+    "main": "main.js",
+    "author": "Gabor Halasz"
+}
